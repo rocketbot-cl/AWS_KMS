@@ -1,26 +1,4 @@
 
-## Como usar este modulo
-
-1. Crear una cuenta de AWS (saltear este paso si ya posede una cuenta). Visita https://aws.amazon.com/ Haz clic en "Crear una cuenta de AWS". Sigue las instrucciones para registrarte, proporcionando la información solicitada
-
-2. Inicia sesión en la Consola de administración de AWS: https://aws.amazon.com/es/console/ y navega a la consola **IAM**.
-
-3. Haz clic en **Usuarios** y luego en **Crear usuario**
-
-4. En **Detalles de Usuario** proporciona un nombre de usuario y dar click a Siguiente.
-
-5. En **Establecer permisos** elegir la opción **Adjuntar políticas directamente** y debajo adjuntar las políticas **AdministratorAccess** y **AWSKeyManagementServicePowerUser**. Dar click a Siguiente y luego en **Crear Usuario**
-
-6. Ir al perfil (esquina superior derecha) y hacer click en Credenciales de seguridad.
-
-7. Busca el apartado **Access keys** y presiona **Crear acces key**. 
-
-8. Se abrirá una verificación **Alternativas a las claves de acceso del usuario root**, darle check y presionar **Crear claves de acceso**.
-
-**Importante**: Anota en un lugar seguro el Access Key ID y la Secret Access Key. Necesitarás ambos para configurar el módulo.
-
-
----
 ## How to use this module
 
 1. Create an AWS account (skip this step if you already have an account). Visit https://aws.amazon.com/ Click "Create an AWS Account." Follow the instructions to sign up, providing the requested information
@@ -42,6 +20,27 @@
 **Important**: Write down the Access Key ID and Secret Access Key in a safe place. You will need both to configure the module.
 
 
+
+---
+## Como usar este modulo
+
+1. Crear una cuenta de AWS (saltear este paso si ya posede una cuenta). Visita https://aws.amazon.com/ Haz clic en "Crear una cuenta de AWS". Sigue las instrucciones para registrarte, proporcionando la información solicitada
+
+2. Inicia sesión en la Consola de administración de AWS: https://aws.amazon.com/es/console/ y navega a la consola **IAM**.
+
+3. Haz clic en **Usuarios** y luego en **Crear usuario**
+
+4. En **Detalles de Usuario** proporciona un nombre de usuario y dar click a Siguiente.
+
+5. En **Establecer permisos** elegir la opción **Adjuntar políticas directamente** y debajo adjuntar las políticas **AdministratorAccess** y **AWSKeyManagementServicePowerUser**. Dar click a Siguiente y luego en **Crear Usuario**
+
+6. Ir al perfil (esquina superior derecha) y hacer click en Credenciales de seguridad.
+
+7. Busca el apartado **Access keys** y presiona **Crear acces key**. 
+
+8. Se abrirá una verificación **Alternativas a las claves de acceso del usuario root**, darle check y presionar **Crear claves de acceso**.
+
+**Importante**: Anota en un lugar seguro el Access Key ID y la Secret Access Key. Necesitarás ambos para configurar el módulo.
 
 ---
 

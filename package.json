@@ -1,6 +1,11 @@
 {
     "author": "Corina Suarez",
     "description": "Module to connect to AWS Key Managment Service | Módulo para conectar ao AWS KMS | Módulo para conectarse a AWS KMS",
+    "description_lang":{
+    "en": "Module to work with kms, creates and controls keys to encrypt your data",
+    "es": "Módulo para trabajar con kms, crea y controla claves para cifrar sus datos.",
+    "pr": "Módulo para trabalhar com kms, cria e controla chaves para criptografar seus dados"
+  },
     "disclaimer": "THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.",
     "version": "1.0.0",
     "license": "MIT",
