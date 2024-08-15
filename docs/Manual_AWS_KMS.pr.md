@@ -8,7 +8,7 @@ Módulo para trabalhar com kms, cria e controla chaves para criptografar seus da
 
 *Read this in other languages: [English](Manual_AWS_KMS.md), [Português](Manual_AWS_KMS.pr.md), [Español](Manual_AWS_KMS.es.md)*
   
-![banner](imgs/AWS_KMS.png)
+![banner](imgs/Modulo_AWS.png)
 ## Como instalar este módulo
   
 Para instalar o módulo no Rocketbot Studio, pode ser feito de duas formas:

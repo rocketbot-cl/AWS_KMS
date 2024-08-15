@@ -8,7 +8,7 @@ Module to work with kms, creates and controls keys to encrypt your data
 
 *Read this in other languages: [English](Manual_AWS_KMS.md), [Português](Manual_AWS_KMS.pr.md), [Español](Manual_AWS_KMS.es.md)*
   
-![banner](imgs/AWS_KMS.png)
+![banner](imgs/Modulo_AWS.png)
 ## How to install this module
   
 To install the module in Rocketbot Studio, it can be done in two ways:

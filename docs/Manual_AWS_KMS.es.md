@@ -9,7 +9,7 @@ Módulo para trabajar con kms, crea y controla claves para cifrar sus datos.
 *Read this in other languages: [English](Manual_AWS_KMS.md), [Português](Manual_AWS_KMS.pr.md), [Español](Manual_AWS_KMS.es.md)*
 
 
-![banner](imgs/AWS_KMS.png)
+![banner](imgs/Modulo_AWS.png)
 
 ## Como instalar este módulo
   
