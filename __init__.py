@@ -45,7 +45,7 @@ try:
         try:
             session_kms_connect = kmsObject(awsAccessKeyId, awsSecretAccessKey, regionName)
             connect = True
-        except:
+        except ValueError:
             connect = False
         SetVar(var_, connect)
 

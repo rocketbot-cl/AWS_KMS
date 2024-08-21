@@ -5,9 +5,15 @@ import base64
 
 class kmsObject:
     def __init__(self, awsAccessKeyId, awsSecretAccessKey, regionName='us-west-2'):
-        self.session = boto3.Session(aws_access_key_id=awsAccessKeyId, aws_secret_access_key=awsSecretAccessKey,
+        try:
+            self.session = boto3.Session(aws_access_key_id=awsAccessKeyId, aws_secret_access_key=awsSecretAccessKey,
             region_name=regionName)
-    
+            #para comprobar que las credenciales son correctas:
+            kms_client = self.session.client('kms', region_name=regionName)
+            kms_client.list_keys()
+        except ClientError as e:
+            print(f"Error connecting to AWS KMS: {e}")
+            raise ValueError("Invalid AWS credentials") from e
     def create_key(self, description='Default KMS Key'):
         try:
             kms = self.session.client('kms')
