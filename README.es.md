@@ -18,8 +18,8 @@ Para instalar el módulo en Rocketbot Studio, se puede hacer de dos formas:
 ## Overview
 
 
-1. Conexion a Aws  
-Ingrese los datos para la conexion
+1. Conexión a Aws  
+Ingrese los datos para la conexión
 
 2. Generar ID de Llave  
 Se utiliza para encriptar y desencriptar datos

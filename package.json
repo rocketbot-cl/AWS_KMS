@@ -31,8 +31,8 @@
           "options": null
         },
         "es": {
-          "title": "Conexion a Aws",
-          "description": "Ingrese los datos para la conexion",
+          "title": "Conexión a Aws",
+          "description": "Ingrese los datos para la conexión",
           "title_options": "Seleccione una opción",
           "options": null
         },
@@ -81,7 +81,7 @@
               "type": "input",
               "placeholder": "us-west-2",
               "title": {
-                "es": "Region:",
+                "es": "Región:",
                 "en": "Region:",
                 "pr": "Região:"
               },

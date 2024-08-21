@@ -1,4 +1,3 @@
-
 ## How to use this module
 
 1. Create an AWS account (skip this step if you already have an account). Visit https://aws.amazon.com/ Click "Create an AWS Account." Follow the instructions to sign up, providing the requested information
@@ -24,7 +23,7 @@
 ---
 ## Como usar este modulo
 
-1. Crear una cuenta de AWS (saltear este paso si ya posede una cuenta). Visita https://aws.amazon.com/ Haz clic en "Crear una cuenta de AWS". Sigue las instrucciones para registrarte, proporcionando la información solicitada
+1. Crear una cuenta de AWS (saltear este paso si ya posee una cuenta). Visita https://aws.amazon.com/ Haz clic en "Crear una cuenta de AWS". Sigue las instrucciones para registrarte, proporcionando la información solicitada
 
 2. Inicia sesión en la Consola de administración de AWS: https://aws.amazon.com/es/console/ y navega a la consola **IAM**.
 

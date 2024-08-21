@@ -15,8 +15,6 @@ To install the module in Rocketbot Studio, it can be done in two ways:
 1. Manual: __Download__ the .zip file and unzip it in the modules folder. The folder name must be the same as the module and inside it must have the following files and folders: \__init__.py, package.json, docs, example and libs. If you have the application open, refresh your browser to be able to use the new module.
 2. Automatic: When entering Rocketbot Studio on the right margin you will find the **Addons** section, select **Install Mods**, search for the desired module and press install.  
 
-
-
 ## How to use this module
 
 1. Create an AWS account (skip this step if you already have an account). Visit https://aws.amazon.com/ Click "Create an AWS Account." Follow the instructions to sign up, providing the requested information
@@ -35,7 +33,9 @@ To install the module in Rocketbot Studio, it can be done in two ways:
 
 8. A **Alternatives to root user access keys** checkbox will open, check it and press **Create access keys**.
 
-**Important**: Write down the Access Key ID and Secret Access Key in a safe place. You will need both to configure the module.
+**Important**: Write down the Access Key ID and Secret Access Key in
+ a safe place. You will need both to configure the module.
+
 
 
 
